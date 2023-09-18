@@ -1,0 +1,12 @@
+Há quatro tipos de variáveis, são elas:
+
+int = armazena números inteiros: 1, 2, 3, 27, 389, 546
+
+float = armazena números decimais: 3.14, 56.17, 392.689
+
+string = armazena textos: "Olá, Mundo!"; "Marcos foi ao supermercado"; "João"
+
+bool = armazena os dois valores de estado: true (verdadeiro), false (falso)
+
+obs: No arquivo 'main.go', estarei utilizando a variável 'int' como exemplo de uma variável simples.
+

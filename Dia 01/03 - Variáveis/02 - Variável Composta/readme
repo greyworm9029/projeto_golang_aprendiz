@@ -1,0 +1,10 @@
+Na variável composta, você pode utilizar duas ou mais variáveis, mas apenas de um tipo. 
+Ou seja, não pode juntar tipos diferentes de variáveis. 
+
+Exemplo: 
+
+var a, b, c int = 1, 15, 37
+
+var nome, sobrenome string = "João", "Guilherme"
+
+var pi, restante float64 = 3.14, 55.24
